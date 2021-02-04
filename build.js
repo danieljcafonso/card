@@ -21,7 +21,7 @@ const data = {
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('danieljcafonso'),
   github: chalk.gray('https://github.com/') + chalk.green('danieljcafonso'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('daniel-afonso-523a13155/'),
-  web: chalk.cyan('https://https://www.danieljcafonso.com/'),
+  web: chalk.cyan('https://www.danieljcafonso.com/'),
   npx: chalk.red('npx') + ' ' + chalk.white('danieljcafonso (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
